@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **MERN STACK*
 
-- 📝 I regularly write articles on [http://themgwords.wordpress.com/](http://themgwords.wordpress.com/)
-
 - 💬 Ask me about **WEB, DSA and Entrepreneurship**
 
 - 📫 How to reach me **irshu79054@gmail.com**
