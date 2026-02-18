@@ -138,10 +138,17 @@
 
 </p>
 <!-- MQTT Protocol -->
+<!-- Networking / Protocols -->
 <a href="https://mqtt.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/MQTT_logo.svg"
        width="40"
        height="40"
        alt="mqtt"/>
 </a>
+
+<img src="https://cdn-icons-png.flaticon.com/512/4241/4241339.png"
+     width="40"
+     height="40"
+     alt="protocols"/>
+
 
