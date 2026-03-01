@@ -11,7 +11,7 @@
 </p>
 
 
-- 🔭 Currently working & exploring *Advance JAVA, RCP, Elipse IDE, IDE for Semiconductor, DSA*
+- 🔭 Currently working & exploring *Advance JAVA(SpringBoot), RCP, Elipse IDE, IDE for Semiconductor, DSA*
 
 - 🌱 Continuously learning **Full-Stack Development & Scalable Systems**
 
