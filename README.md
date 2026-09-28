@@ -1,145 +1,250 @@
-<h1 align="center">Hi 👋, I'm Irshad Ahamad</h1>
-<h3 align="center">Software Engineer Trainee @OmniXM | Transforming Ideas into Scalable Solutions</h3>
-<h4 align="center">
-  Turning Ideas into Code • Code into Products • Products into Impact
-</h4>
+<!-- =========================================================
+  Irshad Ahamad — GitHub Profile
+  Backend Engineer · C# / .NET · Java
+========================================================= -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Irshad%20Ahamad&fontSize=46&fontColor=58A6FF&animation=fadeIn&fontAlignY=32&desc=Backend%20Software%20Engineer&descAlignY=52&descSize=18&descColor=8B949E" alt="Irshad Ahamad —Software Engineer" width="100%" />
+</div>
 
+<br />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=irshu2005&label=Profile%20views&color=0e75b6&style=flat" alt="irshu2005" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=I+build+APIs.+I+debug+systems.+I+ship+backends.;C%23+%2F+.NET+%7C+Java+%7C+Spring+%7C+REST+%7C+Microservices" alt="Animated typing introduction" />
+</div>
 
+<br />
 
-- 🔭 Currently working & exploring *Spring WebFlux API, Advance JAVA(SpringBoot), Elipse IDE - RCP, DSA*
+<div align="center">
 
-- 🌱 Continuously learning **Full-Stack Development & Scalable Systems**
+[![Profile views](https://komarev.com/ghpvc/?username=irshu2005&label=Profile%20views&color=58a6ff&style=for-the-badge)](https://github.com/irshu2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irshu2005)
+[![Email](https://img.shields.io/badge/Email-irshu79054@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irshu79054@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-irshu2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irshu2005)
 
-- 💬 Ask me about **WEB, DSA and Entrepreneurship**
-
-- 📫 Reach me at **irshu79054@gmail.com**
-
-- ⚡ Fun fact **Late-night coding is my comfort zone 🌙 :)**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/irshu2005" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="30"
-         width="40" />
-  </a>
-</p>
+</div>
 
 ---
 
-<h3 align="left">Languages & Tools:</h3>
+<details open>
+<summary><b>⚡ Who I Am</b></summary>
+<br />
 
-<p align="left">
+<div align="center">
 
-<!-- Languages -->
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+**Backend-focused Software Engineer Trainee @ OmniXM**
+
+I design REST APIs, work across microservices, and care about how systems behave when things get real — load, latency, edge cases, and messy production data.
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  Focus     →  Backend Systems · APIs · Databases             │
+│  Stack     →  C# / ASP.NET Core · Java / Spring · SQL        │
+│  Mindset   →  Clean contracts · Solid data · Fast feedback   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+---
+
+<details open>
+<summary><b>🔥 Currently Building</b></summary>
+<br />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**OmniXM / Bizlyzer India Pvt. Ltd.**  
+*Software Engineer Trainee*
+
+Working on CXM-related backend systems:
+
+- REST APIs with **C# / ASP.NET Core**
+- Microservice-oriented backend work
+- **SQL Server** data access & queries
+- API performance & backend reliability
+
+    </td>
+    <td width="50%" valign="top">
+
+**Learning Loop**
+
+- Scalable backend architecture
+- System design fundamentals
+- Caching & service boundaries
+- Deeper .NET + Spring patterns
+- DSA & problem solving
+
+    </td>
+  </tr>
+</table>
+
+</details>
+
+---
+
+<details open>
+<summary><b>🛠️ Tech Arsenal</b></summary>
+<br />
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" alt="Backend stack icons" />
+<br />
+<code>C#</code>&nbsp;
+<code>ASP.NET Core</code>&nbsp;
+<code>Java</code>&nbsp;
+<code>Spring Boot</code>&nbsp;
+<code>Spring WebFlux</code>&nbsp;
+<code>REST APIs</code>&nbsp;
+<code>Microservices</code>
+
+<br /><br />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Database icons" />
+<br />
+<code>SQL Server</code>&nbsp;
+<code>MongoDB</code>&nbsp;
+<code>MySQL</code>&nbsp;
+<code>Redis</code>
+
+<br /><br />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio,idea" alt="Tools and IDE icons" />
+<br />
+<code>Git</code>&nbsp;
+<code>Docker</code>&nbsp;
+<code>Postman</code>&nbsp;
+<code>Swagger / OpenAPI</code>&nbsp;
+<code>VS Code</code>&nbsp;
+<code>Visual Studio</code>&nbsp;
+<code>IntelliJ IDEA</code>
+
+<br /><br />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Frontend icons" />
+<br />
+<code>React</code>&nbsp;
+<code>JavaScript</code>&nbsp;
+<code>HTML</code>&nbsp;
+<code>CSS</code>
+
+</div>
+
+</details>
+
+---
+
+<details open>
+<summary><b>💼 Experience</b></summary>
+<br />
+
+| Role | Company | Focus |
+|:-----|:--------|:------|
+| **Software Engineer Trainee** | OmniXM / Bizlyzer India Pvt. Ltd. | C#, ASP.NET Core, REST APIs, SQL Server, microservices, backend performance |
+| **Software Tools & Platform Engineering Intern** | SmartFRS Solutions Pvt. Ltd. | Java, Spring Boot, Spring WebFlux, MongoDB, Redis, REST APIs |
+
+</details>
+
+---
+
+<details open>
+<summary><b>🚀 Featured Projects</b></summary>
+<br />
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### [Finance Engine](https://github.com/irshu2005/FinanceDataProcessingEngine)
+
+Spring Boot REST API for financial records with RBAC, MongoDB, validation, and OpenAPI docs.
+
+`Java` `Spring Boot` `Security` `MongoDB`
+
+    </td>
+    <td width="33%" valign="top">
+
+### [Journal App](https://github.com/irshu2005/JournalAPP)
+
+Spring Boot journal API with MongoDB persistence for creating and managing personal entries.
+
+`Java` `Spring Boot` `MongoDB` `REST`
+
+    </td>
+    <td width="33%" valign="top">
+
+### [Smart Inventory](https://github.com/irshu2005/Smart-Inventory-MS)
+
+Inventory system for products, suppliers, and stock operations with a desktop UI.
+
+`Java` `Hibernate` `MySQL` `Swing`
+
+    </td>
+  </tr>
+</table>
+
+</details>
+
+---
+
+<details open>
+<summary><b>📊 GitHub Pulse</b></summary>
+<br />
+
+<div align="center">
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irshu2005&theme=tokyonight" alt="GitHub stats" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irshu2005&theme=tokyonight" alt="Repos per language" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=irshu2005&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <br /><br />
+  <img src="https://ghchart.rshah.org/58a6ff/irshu2005" alt="GitHub contribution chart" width="90%" />
+</div>
+
+</details>
+
+---
+
+<details open>
+<summary><b>🔗 Let's Connect</b></summary>
+<br />
+
+<div align="center">
+
+<a href="https://linkedin.com/in/irshu2005" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:irshu79054@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Write%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/irshu2005" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
+<br /><br />
 
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Open+to+backend+roles+%26+interesting+API+problems" alt="Open to backend roles" />
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+</div>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
+</details>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
+<br />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Frontend -->
-<a href="https://react.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Backend -->
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Cloud / Platforms -->
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-
-<!-- Tools -->
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.npmjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/irshu2005" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
-</a>
-
-<!-- IDEs -->
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.eclipse.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Networking / Protocols -->
-<img src="https://cdn-icons-png.flaticon.com/512/4241/4241339.png"
-     width="40"
-     height="40"
-     alt="protocols"/>
-
-</p>
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&text=Ship.%20Debug.%20Learn.%20Repeat.&fontSize=20&fontColor=58A6FF&animation=fadeIn" alt="Ship. Debug. Learn. Repeat." width="100%" />
+</div>
